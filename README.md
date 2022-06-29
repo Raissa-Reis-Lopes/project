@@ -29,6 +29,16 @@ O app que foi desenvolvido encontra-se na pasta src - App.js
  - Crianção do Projeto
        - Uso do React Native CLI
        - Estrutura de pastas
-       - Projeto Profile
-       
+ - Projeto Profile
+       - View
+       - Text
+       - SafeAreaView
+       - Image
+       - Flexbox
+       - Style
+       - Array de Style
+       - Criar botão (Pressable)
+       - Linking API
+       - Add queries no AndroidManifest.xml para abrir link (nativo)
+       - 
        
